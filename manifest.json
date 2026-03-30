@@ -1,6 +1,6 @@
 {
   "name": "DevKits",
-  "description": "Free collection of 13+ essential developer tools: JSON formatter, Base64 encoder/decoder, JWT decoder, Regex tester, URL encoder, Hash generator, UUID generator, Markdown to HTML, Diff checker, Cron parser, and more.",
+  "description": "Free collection of 82+ essential developer tools: JSON formatter, Base64 encoder/decoder, JWT decoder, Regex tester, URL encoder/decoder, Hash generator, UUID generator, Markdown to HTML, Diff checker, Cron parser, SQL formatter, XML formatter, and more. All tools are 100% free, client-side, and privacy-focused.",
   "url": "https://aiforeverthing.com",
   "hook_attributes": {
     "url": ""
